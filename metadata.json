@@ -1,0 +1,7 @@
+{
+  "name": "GamerEdge Pro",
+  "description": "Premium Gaming Tournament Arena with AI Coaching, Real-time Wallet, and Leaderboards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
