@@ -9,3 +9,5 @@ export const getTacticalAdvice = async (game: string, level: string, query: stri
     return response.text;
   } catch { return "Service unavailable."; }
 };
+Api kay 
+AIzaSyDKeyRRSu_-K1UbFmjItgSZnEuw4333fRA
